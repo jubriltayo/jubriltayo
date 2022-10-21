@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jubriltayo
+- 👋 Hi, I’m Jubril
 - 👀 I’m interested in being a full stack developer
 - 🌱 I’m currently learning C programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m currently a student at ALX
 
 <!---
 jubriltayo/jubriltayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
