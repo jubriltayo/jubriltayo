@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jubril
 - 👀 I’m interested in being a full stack developer
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning C and Python programming
 - 💞️ I’m currently a student at ALX
 
 <!---
