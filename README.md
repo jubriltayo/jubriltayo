@@ -71,7 +71,8 @@ I’m actively seeking opportunities to work on **backend development** projects
 
 ### 🔄 **GitHub Activity**
 <!-- Activity animation -->
-![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jubriltayo&theme=react-dark)
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jubriltayo&theme=react-dark)
+
 
 ---
 
