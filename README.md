@@ -46,7 +46,7 @@ I'm Tayo Jubril, a passionate software engineer with expertise in **Backend Deve
 
 ## 📫 **Contact Me**
 
-- **Email**: tayo.jubril@example.com
+- **Email**: jubriltayo@gmail.com
 - **LinkedIn**: [linkedin.com/in/jubril-tayo](https://www.linkedin.com/in/jubril-tayo)
 - **GitHub**: [github.com/jubriltayo](https://github.com/jubriltayo)
 
