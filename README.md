@@ -1,4 +1,4 @@
-# 💼 **Tayo Jubril**  
+# 💼 **Jubril Tayo**  
 **Software Engineer | Backend Developer**  
 [![GitHub followers](https://img.shields.io/github/followers/jubriltayo?label=Follow&style=social)](https://github.com/jubriltayo)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jubril-tayo)
