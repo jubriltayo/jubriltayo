@@ -7,7 +7,7 @@
 
 ## 👨‍💻 **About Me**
 
-I'm Tayo Jubril, a passionate software engineer with expertise in **Backend Development**. I have hands-on experience in **Python, Django, Flask, FastAPI**, and various web technologies. My focus is on building efficient, scalable applications and APIs for backend, and working on end-to-end project development with modern tech stacks.
+I'm Jubril Tayo, a passionate software engineer with expertise in **Backend Development**. I have hands-on experience in **Python, Django, Flask, FastAPI**, and various web technologies. My focus is on building efficient, scalable applications and APIs for backend, and working on end-to-end project development with modern tech stacks.
 
 **Specialties**:
 - Backend Development (Python, Django, Flask, FastAPI)
