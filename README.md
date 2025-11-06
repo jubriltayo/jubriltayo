@@ -34,7 +34,7 @@ I’m Jubril Tayo — a backend-focused software engineer with full-stack capabi
 ## 🏆 Achievements
 - Completed Software Engineering program (ALX Africa — powered by Holberton Inc)  
 - Built and deployed multiple production-ready applications (APIs, cloud deployments)  
-- Contributor to open-source and collaborative projects
+- Delivered end-to-end applications demonstrating backend and full-stack capabilities.
 
 ---
 
