@@ -56,7 +56,7 @@ I thrive in collaborative, remote environments where problem-solving happens thr
 ---
 
 ### 🔹 [SkillSwap](https://github.com/jubriltayo/SkillSwap) — Peer-to-Peer Skill Exchange Platform
-**Laravel • React • PostgreSQL • Docker**
+**Laravel • Next.js • PostgreSQL • Docker**
 
 - Developed a full-stack platform enabling users to exchange skills/services with **role-based access control** and real-time notifications  
 - Built RESTful APIs in Laravel with **PostgreSQL**, enforcing post ownership policies and secure CRUD operations  
