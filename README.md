@@ -113,7 +113,7 @@ I thrive in collaborative, remote environments where problem-solving happens thr
 
 - **Email:** [jubriltayo@gmail.com](mailto:jubriltayo@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/jubril-tayo](https://www.linkedin.com/in/jubril-tayo)  
-- **Portfolio:** Coming soon  
+- **Portfolio:** [Click me](http://tayojubril.vercel.app/)  
 
 ---
 
